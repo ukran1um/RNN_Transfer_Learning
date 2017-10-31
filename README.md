@@ -1,0 +1,1 @@
+This is a project I did for Udacity AI nanodegree program where I use CNN architecture and transfer learning techniques to have some fun with face detection for humans and dog breed detection.
